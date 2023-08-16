@@ -1,0 +1,20 @@
+
+.image-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.back-img {
+    background-image: url("Images/Vector.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    text-align: right;
+    color: #75BF7A;
+}
+
+.back-img1 {
+    background-image: url("Images/Vector.png");
+    background-repeat: no-repeat;
+}
